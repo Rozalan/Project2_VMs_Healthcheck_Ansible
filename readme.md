@@ -1,6 +1,6 @@
 # VM Monitor: Automated EC2 Health Reports with Ansible
 
-Automatically discovers AWS EC2 instances, collects health metrics (CPU, memory, disk), and emails an HTML report. No manual SSH into each server.
+This Project automatically discovers the required AWS EC2 instances, collects health metrics (CPU, memory, disk), and emails an HTML report.All this done without manual SSH into each target servers.
 
 ## How it works
 
